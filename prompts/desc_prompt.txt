@@ -1,0 +1,18 @@
+Write an Alibaba International product description.
+
+Product: {product_name}
+Category: {category}
+Material: {material}
+Application: {application}
+Language: {language}
+Style: {style}
+
+Include:
+- Short product overview
+- Key features
+- Materials and customization options
+- Application scenarios
+- Buyer benefits
+- Suggested call to action
+
+Use a professional B2B tone.
